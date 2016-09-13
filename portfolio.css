@@ -1,0 +1,23 @@
+body {
+	background-image: url(backgrou.jpe);
+	color: white;
+	text-shadow: 3px 0px 5px rgba(0, 0, 0, 1);
+	text-align: center;
+
+}
+
+h1,h2,h3,h4 {
+	font-family: 'Kavoon', cursive;
+}
+
+p, li {
+	font-family: 'Amaranth', sans-serif;
+	font-size: 18px;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img:hover {
+	transform: scale(1.5);
+}
